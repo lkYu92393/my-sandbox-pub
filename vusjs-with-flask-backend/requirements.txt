@@ -1,0 +1,8 @@
+pandas==1.4.3
+numpy==1.22.3
+Flask==2.0.3
+protobuf==3.19.4
+google-cloud-bigquery==3.2.0
+google-cloud-firestore==2.5.3
+db-dtypes==1.0.2
+werkzeug==2.0.3
